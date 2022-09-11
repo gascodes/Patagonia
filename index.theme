@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Material-Ocean
-Comment=A Material Design theme with ocean colors
+Name=Patagonia
+Comment=A Material Design theme with Patagonia colors
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Material-Ocean
-MetacityTheme=Material-Ocean
+GtkTheme=Patagonia
+MetacityTheme=Patagonia
 IconTheme=Adwaita
 CursorTheme=Adwaita
 CursorSize=24
